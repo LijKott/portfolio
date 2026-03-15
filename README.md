@@ -1,16 +1,51 @@
-# React + Vite
+# Portfolio — LijKott
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website built with React + Vite, deployed via GitHub Pages.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a junior at Richfield High School with a passion for programming and problem-solving. I run IT services for local businesses under **Kotter Data LLC** and am constantly pushing myself to grow as a developer.
 
-## React Compiler
+### Languages
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Proficient | Currently Learning |
+|---|---|
+| HTML / CSS / JavaScript | Rust |
+| Java | C / C++ |
+| Python | |
+| BASIC | |
+| GDScript | |
 
-## Expanding the ESLint configuration
+I believe Rust is the future of system-level programming, and I'm building a strong C/C++ foundation to get there effectively.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Notable Work
+
+**StudySensei** — An adaptive AI study app that generates practice tests and flashcards tailored to your learning style. I pitched this as a top-20 finalist in the **Tim Draper High School Utah Entrepreneur Challenge**. Development is on hold while I sharpen my React skills, but it's coming.
+
+**Kotter Data LLC** — I handle day-to-day IT work for local businesses under this company. Registered under my father's name, but I'm the one running it.
+
+## This Site
+
+Built with:
+- [React](https://react.dev/)
+- [Vite](https://vite.dev/)
+- Deployed with [gh-pages](https://github.com/tschaub/gh-pages)
+
+### Running Locally
+
+```bash
+npm install
+npm run dev
+```
+
+### Deploying
+
+```bash
+npm run deploy
+```
+
+Builds the project and pushes to the `gh-pages` branch. Live at [lijkott.github.io/portfolio](https://lijkott.github.io/portfolio).
+
+---
+
+Check out my other projects at [github.com/LijKott](https://github.com/LijKott).
