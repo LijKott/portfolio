@@ -1,0 +1,20 @@
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --color-green: #00c853;
+}
+
+body {
+  color: white;
+  padding-top: 72px;
+}
+
+small {
+  color: grey;
+}
+
+h1 {
+  color: var(--color-green);
+}
