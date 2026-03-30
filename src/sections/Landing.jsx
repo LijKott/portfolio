@@ -21,7 +21,7 @@ function Landing() {
     <div id="home" className="landing-container">
       <div className="landing-content">
         <div className="pfp-wrapper" style={pfpSize ? { width: pfpSize, height: pfpSize } : {}}>
-          <img src="https://media.licdn.com/dms/image/v2/D4D03AQF-VjC-eEgSGw/profile-displayphoto-scale_200_200/B4DZvHbtkbHYAY-/0/1768577490137?e=1776297600&v=beta&t=JoZQ2GUBBW9n5reZPOmMHY_sRa1trtBQ_-XW8zoENEk" alt="Elijah Kotter" className="pfp" />
+          <img src="./ElijahKotterPfp.jpg" alt="Elijah Kotter" className="pfp" />
         </div>
         <div className="landing-text" ref={textRef}>
           <p>Hey, I'm</p>
