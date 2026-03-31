@@ -1,0 +1,22 @@
+.about-container {
+  display: flex;
+  justify-content: center;
+  padding: 48px 0;
+}
+
+.about-box {
+  width: var(--content-width);
+  background-color: #1e1e1e;
+  border-radius: 16px;
+  padding: 40px;
+}
+
+.about-box h1 {
+  margin: 0;
+  padding-bottom: 15px;
+}
+
+.about-box p {
+  padding-bottom: 8px;
+  padding-top: 8px;
+}

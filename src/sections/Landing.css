@@ -14,7 +14,7 @@
 .landing-content {
   display: flex;
   flex-direction: row;
-  align-items: stretch;
+  align-items: center;
   gap: 48px;
 }
 
@@ -54,11 +54,11 @@
 }
 
 .landing-text h2 {
-  font-size: 22px;
+  font-size: 26px;
 }
 
 .landing-text small {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 

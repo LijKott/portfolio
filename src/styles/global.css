@@ -1,5 +1,6 @@
 :root {
   --color-green: #469B4E;
+  --content-width: 900px;
 }
 
 body {
@@ -12,4 +13,16 @@ small {
 
 h1 {
   color: var(--color-green);
+}
+
+h2 {
+  font-size: 26px;
+}
+
+small {
+  font-size: 14px;
+}
+
+.Header {
+  font-size: 40px;
 }

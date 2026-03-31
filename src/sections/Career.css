@@ -1,0 +1,18 @@
+.career-container {
+  display: flex;
+  justify-content: center;
+  padding: 48px 0;
+}
+
+.career-box {
+  width: var(--content-width);
+  background-color: #1e1e1e;
+  border-radius: 16px;
+  padding: 40px;
+}
+
+.career-box h1 {
+  margin: 0;
+  padding-bottom: 15px;
+}
+

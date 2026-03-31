@@ -3,8 +3,10 @@ import "./Schooling.css"
 
 function Schooling() {
   return (
-    <div id="schooling">
-      <h1>Schooling</h1>
+    <div id="schooling" className="schooling-container">
+      <div className="schooling-box">
+        <h1 className="Header"><b>Schooling</b></h1>
+      </div>
     </div>
   )
 }

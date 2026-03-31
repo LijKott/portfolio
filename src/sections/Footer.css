@@ -1,0 +1,21 @@
+footer {
+  background-color: black;
+  padding: 16px 32px 0;
+}
+
+footer hr {
+  width: 100%;
+  border: none;
+  background-color: var(--color-green);
+  height: 3px;
+  margin: 0;
+}
+
+.footer-contents {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 14px;
+  padding: 24px 0;
+}

@@ -3,8 +3,10 @@ import "./Projects.css"
 
 function Projects() {
   return (
-    <div id="projects">
-      <h1>Projects</h1>
+    <div id="projects" className="projects-container">
+      <div className="projects-box">
+        <h1 className="Header"><b>Projects</b></h1>
+      </div>
     </div>
   )
 }
