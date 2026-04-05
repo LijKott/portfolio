@@ -1,0 +1,6 @@
+.skill-tag {
+  background-color: var(--color-green);
+  margin-right: 10px;
+  padding: 5px;
+  border-radius: 7px; 
+}

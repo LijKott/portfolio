@@ -1,4 +1,26 @@
 .job-container {
   padding-bottom: 8px;
   padding-top: 8px;
+  display: flex;
+  flex-direction: row;
+}
+
+.skill-tags {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+}
+
+.job-container img {
+  width: 70px;
+  height: 70px;
+  margin-right: 15px;
+}
+
+.linkedin {
+  color: #737475;
+}
+
+.linkedin:hover {
+  color: #88898a;
 }
