@@ -24,7 +24,7 @@ function Navbar() {
         <a href="#about">About</a>
         <a href="#career">Career</a>
         <a href="#projects">Projects</a>
-        <a href="#schooling">Schooling</a>
+        <a href="#Awards">awards</a>
       </div>
       <hr />
     </nav>

@@ -4,7 +4,7 @@ import Landing from "./sections/Landing"
 import AboutMe from "./sections/AboutMe"
 import Career from "./sections/Career"
 import Projects from "./sections/Projects"
-import Schooling from "./sections/Schooling"
+import Awards from "./sections/Awards"
 import Footer from "./sections/Footer"
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
       <AboutMe />
       <Career />
       <Projects />
-      <Schooling />
+      <Awards />
       <Footer />
     </div>
   )

@@ -1,17 +1,17 @@
-.schooling-container {
+.awards-container {
   display: flex;
   justify-content: center;
   padding: 48px 0;
 }
 
-.schooling-box {
+.awards-box {
   width: var(--content-width);
   background-color: #1e1e1e;
   border-radius: 16px;
   padding: 40px;
 }
 
-.schooling-box h1 {
+.awards-box h1 {
   margin: 0;
   padding-bottom: 15px;
 }

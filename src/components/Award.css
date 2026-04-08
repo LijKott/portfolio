@@ -1,4 +1,4 @@
-.project-container {
+.award-container {
   padding-bottom: 8px;
   padding-top: 8px;
   display: flex;
@@ -13,9 +13,9 @@
   margin-top: 10px;
 }
 
-.project-container img {
-  width: 160px;
-  height: 100px;
+.award-container img {
+  width: 100px;
+  height: 75px;
   border-radius: 12px;
   margin-right: 15px;
   object-fit: cover;
