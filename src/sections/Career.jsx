@@ -9,7 +9,6 @@ function Career() {
         <h1 className="Header"><b>Career</b></h1>
         <Jobs
           companyName={"Kotter Data"}
-          linkedinHandle={"kotter-data"}
           timeWorked={"May 29, 2024 - Present"}
           description={"I am the COO and CTO of Kotter Data. I do IT work for Kotter Tax and Accounting."}
           skills={["Leadership", "Business"]}
