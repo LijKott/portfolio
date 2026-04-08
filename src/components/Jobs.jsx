@@ -3,11 +3,12 @@ import SkillTag from './SkillTag';
 
 const Jobs = ({ companyName, linkedinHandle, timeWorked, description, skills, imageUrl, altText }) => {
   const linkedinLink = 'https://www.linkedin.com/company/' + linkedinHandle;
+  const linkedinHandleUpt = '@' + linkedinHandle;
   return (
     <div className='job-container'>
       <img src={imageUrl} alt={altText} className='companyImage' />
       <div>
-        <h2>{companyName} <a className='linkedin' href={linkedinLink}>@{linkedinHandle}</a></h2>
+        <h2>{companyName} <a className='linkedin' href={linkedinLink}>{linkedinHandleUpt}</a></h2>
         <small>{timeWorked}</small>
         <p>{description}</p>
         <div className='skill-tags'>
